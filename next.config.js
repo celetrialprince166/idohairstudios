@@ -29,6 +29,8 @@ const nextConfig = {
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     formats: ['image/webp'],
     domains: ['images.unsplash.com', 'res.cloudinary.com'],
+    // Disable sharp optimization temporarily to avoid access violations
+    unoptimized: process.env.NODE_ENV === 'development',
   },
   // Production optimizations
   swcMinify: true, // Use SWC minifier for faster builds

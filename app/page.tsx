@@ -68,7 +68,7 @@ export default function Home() {
         {/* Background Image with overlay */}
         <div className="absolute inset-0 z-0">
           <Image
-            src="/images/profile_image.png"
+            src="/images/profile_image2.png"
             alt="I DO HAIR STUDIOS Background"
             fill
             className="object-cover object-center"

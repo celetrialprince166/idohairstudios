@@ -34,3 +34,30 @@
 [2025-10-04T00:49:53.491Z] [DEBUG] [AUTH] Getting user from token
 [2025-10-04T00:49:53.492Z] [DEBUG] [AUTH] Retrieving token from cookies
 [2025-10-04T00:49:53.493Z] [DEBUG] [AUTH] Retrieving token from server action
+[2025-12-04T18:32:59.594Z] [DEBUG] [AUTH] Getting user from token
+[2025-12-04T18:32:59.597Z] [DEBUG] [AUTH] Retrieving token from cookies
+[2025-12-04T18:32:59.598Z] [DEBUG] [AUTH] Retrieving token from middleware request
+[2025-12-04T18:33:00.017Z] [DEBUG] [AUTH] Getting user from token
+[2025-12-04T18:33:00.021Z] [DEBUG] [AUTH] Retrieving token from cookies
+[2025-12-04T18:33:00.022Z] [DEBUG] [AUTH] Retrieving token from server action
+[2025-12-04T18:33:00.029Z] [DEBUG] [AUTH] Getting user from token
+[2025-12-04T18:33:00.030Z] [DEBUG] [AUTH] Retrieving token from cookies
+[2025-12-04T18:33:00.031Z] [DEBUG] [AUTH] Retrieving token from server action
+[2025-12-04T18:33:56.348Z] [DEBUG] [AUTH] Getting user from token
+[2025-12-04T18:33:56.353Z] [DEBUG] [AUTH] Retrieving token from cookies
+[2025-12-04T18:33:56.353Z] [DEBUG] [AUTH] Retrieving token from middleware request
+[2025-12-04T18:33:56.801Z] [DEBUG] [AUTH] Getting user from token
+[2025-12-04T18:33:56.805Z] [DEBUG] [AUTH] Retrieving token from cookies
+[2025-12-04T18:33:56.806Z] [DEBUG] [AUTH] Retrieving token from server action
+[2025-12-04T18:33:56.814Z] [DEBUG] [AUTH] Getting user from token
+[2025-12-04T18:33:56.815Z] [DEBUG] [AUTH] Retrieving token from cookies
+[2025-12-04T18:33:56.816Z] [DEBUG] [AUTH] Retrieving token from server action
+[2025-12-04T18:36:47.824Z] [DEBUG] [AUTH] Getting user from token
+[2025-12-04T18:36:47.827Z] [DEBUG] [AUTH] Retrieving token from cookies
+[2025-12-04T18:36:47.828Z] [DEBUG] [AUTH] Retrieving token from middleware request
+[2025-12-04T18:36:48.205Z] [DEBUG] [AUTH] Getting user from token
+[2025-12-04T18:36:48.208Z] [DEBUG] [AUTH] Retrieving token from cookies
+[2025-12-04T18:36:48.208Z] [DEBUG] [AUTH] Retrieving token from server action
+[2025-12-04T18:36:48.218Z] [DEBUG] [AUTH] Getting user from token
+[2025-12-04T18:36:48.218Z] [DEBUG] [AUTH] Retrieving token from cookies
+[2025-12-04T18:36:48.219Z] [DEBUG] [AUTH] Retrieving token from server action
